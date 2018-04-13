@@ -1,0 +1,33 @@
+{
+  "name": "functions-emulator-demo",
+  "version": "1.0.0",
+  "description": "Demo project to show google cloud functions emulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusinto/functions-emulator-demo.git"
+  },
+  "keywords": [
+    "google",
+    "cloud",
+    "functions",
+    "emulator",
+    "simulator",
+    "serverless",
+    "lambda",
+    "faas",
+    "function",
+    "as",
+    "a",
+    "service"
+  ],
+  "author": "Yusinto Ngadiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusinto/functions-emulator-demo/issues"
+  },
+  "homepage": "https://github.com/yusinto/functions-emulator-demo#readme"
+}
